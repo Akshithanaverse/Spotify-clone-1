@@ -1,3 +1,3 @@
 # Spotify_clone
 Clone of the Spotify web interface
-This project includes cretaion of Spotify Web Interfcae using html and css.
+This project includes creation of Spotify Web Interfcae using html and css.
